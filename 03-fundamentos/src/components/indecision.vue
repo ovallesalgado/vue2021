@@ -10,7 +10,6 @@
     <div v-if="isValidQuestion">
         <h2 >{{question}}</h2>
         <h1>{{answer}}</h1>
-
     </div>
  </div>
 </template>
